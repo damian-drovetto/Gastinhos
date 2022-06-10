@@ -1,1 +1,20 @@
-{"basico": {"valor_especulado": 250, "total": 90, "valor_restante": 160, "gastos": [50, 40]}, "roles": {"valor_especulado": 150, "total": 145, "valor_restante": 5, "gastos": [60, 85]}}
+{
+    "basico": {
+        "valor_especulado": 250,
+        "total": 90,
+        "valor_restante": 160,
+        "gastos": [
+            50,
+            40
+        ]
+    },
+    "roles": {
+        "valor_especulado": 150,
+        "total": 145,
+        "valor_restante": 5,
+        "gastos": [
+            60,
+            85
+        ]
+    }
+}
